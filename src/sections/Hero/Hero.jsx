@@ -54,8 +54,8 @@ function Hero() {
         <p className={styles.description}>
           With a passion for developing modern android and ios apps with single codebase
         </p>
-        <a href={Resume} download>
-          <button className="hover">Resume</button>
+        <a href='https://www.instagram.com/janvi_7582?igsh=MWVwcXd1czRkOTA1NQ=='>
+          <button className="hover">socials</button>
         </a>
       </div>
     </section>
